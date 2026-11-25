@@ -1,0 +1,6 @@
+{
+  "name": "DeskSort",
+  "description": "Privacy-first automatic file organizer with local AES-256 encryption, automated content tagging, semantic folder and file retrieval, cloud archiving, and offline sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
